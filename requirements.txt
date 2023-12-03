@@ -4,3 +4,4 @@ scikit-learn
 surprise
 shap
 fire
+catboost
